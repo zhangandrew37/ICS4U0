@@ -17,8 +17,8 @@ public class Main {
      * @throws IOException when there is a problem reading input or output
      */
     public static void main(String [] args) throws IOException{
-        Writer fileWriter = new FileWriter("/Users/AndrewZ/Desktop/Data Structures/src/output.txt", false);
-        BufferedReader bufferedReader = new BufferedReader(new FileReader("/Users/AndrewZ/Desktop/Data Structures/src/input.txt"));
+        Writer fileWriter = new FileWriter("output.txt", false);
+        BufferedReader bufferedReader = new BufferedReader(new FileReader("input.txt"));
         StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine());
 
         Award[] awards = new Award[3];
