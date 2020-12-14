@@ -1,0 +1,52 @@
+===================================================================================
+EXTRACURRICULAR ACTIVITIES
+===================================================================================
+Name: Nobel Peace Prize
+Type: Humanities
+Level: International
+Outcome: Nominated
+Date Awarded: September 3, 2020
+Eligible for Scholarship: false
+Reference - Name: Bob Smith, Contact: 123-456-7890, bobsmith@gmail.com
+===================================================================================
+Name: Pascal Top 25%
+Type: Math
+Level: National
+Outcome: Received
+Date Awarded: January 3, 2018
+Eligible for Scholarship: false
+Reference - Name: Joe Su, Contact: 412-123-1231, joesu@gmail.com
+===================================================================================
+Name: RCM Level 10 Piano
+Type: Arts
+Level: National
+Outcome: Received
+Date Awarded: December 9, 2020
+Eligible for Scholarship: true
+Reference - Name: John Ali, Contact: 978-123-4231, johnali@gmail.com
+===================================================================================
+Name: Computer Science Club
+Type: School
+Level: Member
+Start Date: June 3, 2021
+End Date: September 10, 2018
+Reference - Name: Mr K, Contact: 123-465-7890, mrk@gmail.com
+===================================================================================
+Name: Investment Club
+Type: School
+Level: Exec
+Start Date: May 28, 2021
+End Date: September 20, 2019
+Reference - Name: Ms S, Contact: 987-787-1231, mss@gmail.com
+===================================================================================
+Name: Robotics
+Type: Community
+Level: Member
+Start Date: December 20, 2018
+End Date: March 20, 2016
+Reference - Name: Mrs C, Contact: 123-762-1234, mrsc@gmail.com
+===================================================================================
+UPDATES
+===================================================================================
+Outcome of Nobel Peace Prize is now: Received as of 20201012
+Level of Robotics is now: Mentor

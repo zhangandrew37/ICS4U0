@@ -1,0 +1,7 @@
+Nobel Peace Prize,Humanities,International,Bob,Smith,123-456-7890,bobsmith@gmail.com,Nominated,20200903,False
+Pascal Top 25%,Math,National,Joe,Su,412-123-1231,joesu@gmail.com,Received,20180103,False
+RCM Level 10 Piano,Arts,National,John,Ali,978-123-4231,johnali@gmail.com,Received,20201209,True
+
+Computer Science Club,School,Member,Mr,K,123-465-7890,mrk@gmail.com,20180910,20210603,2
+Investment Club,School,Exec,Ms,S,987-787-1231,mss@gmail.com,20190920,20210528,1
+Robotics,Community,Member,Mrs,C,123-762-1234,mrsc@gmail.com,20160320,20181220,10
