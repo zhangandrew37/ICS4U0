@@ -1,5 +1,5 @@
 # Data-Structures
  
-Submission for the data strucutres unit.\n
-src --> program code\n
-UML Diagrams --> high and low level UML diagrams
+Submission for the data strucutres unit.
+<br />src --> program code
+<br />UML Diagrams --> high and low level UML diagrams
